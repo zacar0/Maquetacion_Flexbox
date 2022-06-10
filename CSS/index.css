@@ -1,0 +1,76 @@
+.gris {
+    height: 4rem;
+    width: 47rem;
+    background-color: rgb(213, 212, 212);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.img_gris {
+    height: 3rem;
+    width: auto;
+    margin-top: 0.5rem;
+}
+
+.roj {
+    display: flex;
+    flex-direction: row;
+}
+
+.rojos {
+    height: 5rem;
+    width: 31rem;
+    background-color: rgb(247, 63, 63);
+}
+
+.rojo {
+    height: 5rem;
+    width: 15rem;
+    background-color:rgb(247, 63, 63);
+    margin-left:1rem;
+}
+
+.general {
+   display: flex;
+   flex-direction: row;
+}
+
+.amarillo {
+    height: 22rem;
+    width: 22.5rem;
+    background-color: rgb(246, 173, 16);
+    margin-top: 1rem;
+}
+
+.cajapadre {
+    display: flex;
+    flex-direction: column;
+}
+
+.morado1{
+    height: 10.5rem;
+    width: 23.5rem;
+    background-color: rgb(152, 5, 135);
+    margin: 1rem;
+    margin-bottom: 0.5rem;
+}
+.morado2 {
+    height: 10.5rem;
+    width: 23.5rem;
+    background-color: rgb(152, 5, 135);
+    margin: 1rem;
+    margin-top: 0.5rem;
+}
+
+.celestes {
+    display: flex;
+    flex-direction: row;
+}
+
+.celeste1, .celeste2, .celeste3 {
+    height: 4rem;
+    width: 15.35rem;
+    background-color: rgb(2, 120, 149);
+    margin: 0.5rem;
+    margin-left: 0rem;
+}
